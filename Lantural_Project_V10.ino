@@ -1,4 +1,3 @@
-// Daniel M. Levine and Ian T. Moritz
 // 1 April 2016
 
 //TO-DO
