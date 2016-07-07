@@ -15,4 +15,4 @@ Wire.h
 DS3232RTC.h
 TimeAlarms.h
 
-I will do a full write up on this project soon
+Write up: 
